@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svnroot/tmsnc/!svn/ver/2/src
+END
+core_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/tmsnc/!svn/ver/1/src/core_net.c
+END
+dialog.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/tmsnc/!svn/ver/1/src/dialog.c
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/misc.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/tmsnc/!svn/ver/2/src/Makefile.in
+END
+core_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/tmsnc/!svn/ver/2/src/core_misc.c
+END
+core_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/tmsnc/!svn/ver/1/src/core_net.h
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/tmsnc/!svn/ver/1/src/dialog.h
+END
+core_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/tmsnc/!svn/ver/1/src/core_misc.h
+END
+core_ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/tmsnc/!svn/ver/1/src/core_ssl.c
+END
+ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svnroot/tmsnc/!svn/ver/1/src/ui.c
+END
+core_ssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/tmsnc/!svn/ver/1/src/core_ssl.h
+END
+ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svnroot/tmsnc/!svn/ver/1/src/ui.h
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/conf.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/tmsnc/!svn/ver/1/src/debug.c
+END
+charset.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/tmsnc/!svn/ver/1/src/charset.c
+END
+conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/conf.h
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/core.h
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/tmsnc/!svn/ver/1/src/stamp-h.in
+END
+charset.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/tmsnc/!svn/ver/1/src/charset.h
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/menu.c
+END
+login.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/tmsnc/!svn/ver/1/src/login.c
+END
+filters.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/tmsnc/!svn/ver/1/src/filters.c
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/menu.h
+END
+core_p2p.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/tmsnc/!svn/ver/1/src/core_p2p.c
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/tmsnc/!svn/ver/1/src/stamp-h1
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/list.c
+END
+login.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/tmsnc/!svn/ver/1/src/login.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/tmsnc/!svn/ver/1/src/filters.h
+END
+core_p2p.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/tmsnc/!svn/ver/1/src/core_p2p.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/tmsnc/!svn/ver/2/src/config.h.in
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/list.h
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/tmsnc/!svn/ver/1/src/event.c
+END
+sig.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/tmsnc/!svn/ver/1/src/sig.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/main.c
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/tmsnc/!svn/ver/1/src/event.h
+END
+sig.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/tmsnc/!svn/ver/1/src/sig.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/tmsnc/!svn/ver/1/src/Makefile.am
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/main.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/tmsnc/!svn/ver/1/src/misc.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/tmsnc/!svn/ver/1/src/common.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svnroot/tmsnc/!svn/ver/2/doc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/tmsnc/!svn/ver/2/doc/Makefile.in
+END
+manual.fr
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/tmsnc/!svn/ver/1/doc/manual.fr
+END
+tmsnc.1
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/tmsnc/!svn/ver/1/doc/tmsnc.1
+END
+manual.du
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/tmsnc/!svn/ver/1/doc/manual.du
+END
+manual.sv
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/tmsnc/!svn/ver/1/doc/manual.sv
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/tmsnc/!svn/ver/1/doc/Makefile.am
+END
+manual.en
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/tmsnc/!svn/ver/1/doc/manual.en
+END
