@@ -4,6 +4,10 @@ Changelog for TMSNC
 - = Feature removed
 % = Bugfix
 
+Version 0.0.1 [recoded]
+ + Fixed Protocol Mismatch
+ + Changed to MSNP15
+
 Version 0.3.2
  + Partial group support: sort contact list by groups (one contact one group only)
  + Using "f" key to change contact list showing mode (addr/nickname/psm etc)
