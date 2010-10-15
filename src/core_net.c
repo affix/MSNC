@@ -1430,7 +1430,7 @@ MSN_init_session(server, port, session, msn_passwd, callback)
             callback(-1, "Error when receiving echo");
         return -1;
     }
-    if (strncmp(buf, PROTOCOL_VER, strlen(PROTOCOL_VER)) != 0) {
+    if (strncmp(buf, PROTOCOL_VER, 12) != 0) {
         if (callback != NULL)
             callback(-1, "The protocols doesn't match\n");
         return -1;

@@ -91,7 +91,7 @@ along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
 /* #undef NO_COLOR_CURSES */
 
 /* Name of package */
-#define PACKAGE "tmsnc"
+#define PACKAGE "MSNC"
 
 /* Define to the address where bug reports for this package should be sent. */
 #define PACKAGE_BUGREPORT ""
@@ -130,7 +130,7 @@ along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
 /* #undef USE_SYSV_CURSES */
 
 /* Version number of package */
-#define VERSION "0.3.2"
+#define VERSION "0.0.1"
 
 /* curses routines to work with wide chars are available */
 /* #undef WIDE_NCURSES */

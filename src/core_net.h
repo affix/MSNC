@@ -45,5 +45,5 @@ along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
 #define DISPATCH_SERVER  "messenger.hotmail.com"
 #define DISPATCH_PORT    1863
 #define PROTOCOL_VER     "VER 1 MSNP11 MSNP10 CVR0\r\n"
-#define CLIENT_INFO      "CVR 2 0x0409 tmsnc 0.3.0 unix TMSNC 0.3.0 MSMSGS"
+#define CLIENT_INFO      "CVR 2 0x0409 MSNC 0.0.1 unix TMSNC 0.0.1 MSMSGS"
 #define BUFSIZE          512
