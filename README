@@ -1,4 +1,4 @@
-TMSNC - Textbased MSN Client v0.3.2
+MSNC - A command line MSN Messenger Client
 
 Install by running:
 
@@ -9,14 +9,13 @@ and then as root you run
 
 	make install
 
-and TMSNC is installed in /usr/local/bin unless you specified another path.
+and MSNC is installed in /usr/local/bin unless you specified another path.
 
 Note: If you are upgrading from an earlier version you may want to delete your tmsnc.conf file.
 
-If it refuses to compile, make sure you've installed ncurses-dev and libssl-dev. If it 
-still doesn't want to work, e-mail me (sanoix@gmail.com).
+If it refuses to compile, make sure you've installed ncurses-dev and libssl-dev.
 
-Currently these are the things you can do in TMSNC:
+Currently these are the things you can do in MSNC:
  * Log in/out
  * Retrieve list of users
  * See who's online and their status
@@ -37,3 +36,8 @@ Currently these are the things you can do in TMSNC:
  * Change the interface's colors
  * Log conversations
  * Use sound to notify you of events
+
+MSNC is based off a project(TMSNC) that ended in 2004 by sanoix@gmail.com
+
+
+The project is now maintained under GNU/GPL v3 License by Affix and Dimonov
