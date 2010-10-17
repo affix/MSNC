@@ -652,7 +652,7 @@ CYGPATH_W
 INSTALL_DATA
 INSTALL_SCRIPT
 INSTALL_PROGRAM
-tmsnc_VERSION
+msnc_VERSION
 target_alias
 host_alias
 build_alias
@@ -2105,14 +2105,14 @@ ac_compiler_gnu=$ac_cv_c_compiler_gnu
 
 
 
-tmsnc_MAJOR=0
-tmsnc_MINOR=3
-tmsnc_MICRO=2
-tmsnc_VERSION=$tmsnc_MAJOR.$tmsnc_MINOR.$tmsnc_MICRO
+msnc_MAJOR=0
+msnc_MINOR=0
+msnc_MICRO=1
+msnc_VERSION=$msnc_MAJOR.$msnc_MINOR.$msnc_MICRO
 
 
-VERSION=$tmsnc_VERSION
-PACKAGE=tmsnc
+VERSION=$msnc_VERSION
+PACKAGE=msnc
 
 am__api_version="1.9"
 ac_aux_dir=
